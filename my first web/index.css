@@ -1,0 +1,260 @@
+*{
+
+    padding: 0%;
+    border: 0cap;
+}
+.h{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(99, 99, 221);
+    color:black;
+    font-size: 17px;
+    
+}
+
+#img{
+    padding-left: 250px;
+}
+.imgdiv1{
+  
+    padding-left: 250px;
+    padding-top: 50px;
+}
+.head{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.icon{
+    padding-left: 400px;
+}
+#start{
+    height: auto;
+    width: 900px;
+    position:absolute;
+
+
+}
+h1{
+    text-align: center;
+    padding-left: 200px;
+}
+#h11{
+    font-size: 80px;
+}
+#img1{
+    padding-left: 550px;
+    padding-top: 20px;
+}
+.p{
+    height:550px;
+    width:1250px;
+    background-color: rgb(160, 127, 190);
+    padding-left: 70px;
+    /*text-align: center;*/
+    border-radius: 40px;
+
+}
+.q{
+    height:400px;
+    width:1250px;
+    background-color: rgb(212, 105, 123);
+    padding-left: 70px;
+    /*text-align: center;*/
+    border-radius: 80px;
+    margin-top: 30px;
+}
+.r{
+    height:200px;
+    width:1250px;
+    background-color: rgb(165, 74, 74);
+    padding-left: 70px;
+    margin-top: 20px;
+    /*text-align: center;*/
+    border-radius: 60px;
+    background-image: url();
+   
+
+}
+.s{
+    height:200px;
+    width:1250px;
+    background-color: rgb(212, 105, 123);
+    padding-left: 70px;
+  /*  text-align: center;*/
+    border-radius: 80px;
+    margin-top: 30px;
+}
+.t{
+    height:300px;
+    width:1250px;
+    background-color: rgb(105, 191, 212);
+    padding-left: 50px;
+    /*text-align: center;*/
+    border-radius: 80px;
+    margin-top: 30px;
+
+}
+.u{
+    height:200px;
+    width:1250px;
+    background-color: rgb(184, 104, 184);
+    padding-left: 70px;
+    /*text-align: center;*/
+    border-radius: 80px;
+    margin-top: 30px;
+}
+span{
+    font-size: 70px;
+    text-align: center;
+
+}
+.b{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(247, 244, 244);
+    color:bisque;
+    font-size: 20px;
+    
+}
+.bb{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(228, 222, 222);
+    color:bisque;
+    font-size: 15px;
+    
+}
+.bb:hover{
+    background-color: rgb(176, 138, 212);
+}
+.b:hover{
+    background-color: rgb(176, 138, 212);
+}
+.msdp{
+    height: 2520px;
+    width: 800px;
+    background-color: aqua;
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.our{
+    height:500px;
+    width: 800px;
+    background-color: rgb(200, 224, 162);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.program{
+    height:2200px;
+    width: 800px;
+    background-color: rgb(115, 126, 190);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.form{
+    height:840px;
+    width: 800px;
+    background-color: rgb(115, 126, 190);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.in{
+    height: 70px;
+    width: 500px;
+    font-size: 40px;
+}
+label{
+    font-size:40 ;
+}
+.io{
+    height: 70px;
+    width: 300px;
+    font-size: 40px;
+}
+.out{
+    font-size: 40px;
+}
+.save{
+    height:40px;
+    width: 120px;
+    background-color: rgb(243, 94, 94);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.save:hover{
+    background-color: rgb(235, 12, 12);
+}
+.contact{
+    height: 200px;
+    width: 800px;
+    background-color: rgb(145, 160, 81);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(186, 120, 230);
+    color: rgb(17, 13, 13);
+    padding-left: 30px;
+ }
+ #span{
+    text-align: center;
+    padding-left: 500px;
+ }
+ .get{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(83, 172, 194);
+   /* margin-left:250px;*/
+    margin-top: 20px;
+    border-radius: 50px;
+    
+ }
+ p{
+    font-size: 30px;
+ }
+ .faltu{
+    height: 300px;
+    width: 100%;
+   
+ }
+ .about{
+    height: 650px;
+    width: 800px;
+    background-color: rgb(145, 160, 81);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+ }
+ .agency{
+    height: 530px;
+    width: 800px;
+    background-color: rgb(216, 97, 107);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+ }
+ .founder{
+    height: 2000px;
+    width: 800px;
+    background-color: rgb(140, 182, 44);
+    margin-left:250px;
+    margin-top: 20px;
+    padding-left: 20px;
+ }
+ i{
+    margin-right: 50px;
+ }
+ .ins{
+    margin-left: 50px;
+ }
+ 

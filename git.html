@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>
+            My web trial
+        </title>
+        <style>
+            .main{
+    width: 300px;
+    height:300px;
+    background-color:green;
+    transform: rotate(45deg);
+    border-radius: 20px;
+    float: left;
+    position: absolute;
+    top: 100px;
+    left:500px;
+    
+}
+.main1{
+    width:300px;
+    height:300px;
+    float: left;
+    background-color: green;
+    border-radius: 20px;
+    position: absolute;
+    top: 100px;
+    left:500px;
+    
+}
+.main2{
+    width:300px;
+    height:300px;
+    float: left;
+    background-color: rgb(120, 199, 120);
+    border-radius: 150px;
+    position: absolute;
+    top: 100px;
+    left:500px;
+}
+.button{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top:0px;
+    color:rgb(225, 225, 233);
+    font-size: 0px;
+    background-color: rgb(81, 81, 141,);
+    opacity: 0;
+    transition: 1s;
+}
+.main2:hover .button{
+    top:130px;
+    background-color:rgb(120, 199, 120);
+    font-size: 35px;
+    opacity: 1;
+    border-color: rgb(120, 199, 120);
+    border-bottom: 0px;
+    border-radius: 20px;
+    border-right: opx;
+    border-left: 0px;
+    color: orangered;
+}
+        </style>
+
+        
+    </head>
+    <body>
+        <div class="main"></div>
+        <div class="main1"></div>
+        <div class="main2">
+            <input type="button" name="hello" class="button" value="google">
+        </div>
+    </body>
+</html>
